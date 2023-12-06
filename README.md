@@ -4,10 +4,10 @@ Este é um projeto em Java para criar uma aplicação de Teste Online. A aplica�
 
 # Funcionalidades
 
-Realização de um teste online.
-Avaliação automática das respostas.
-Exibição da pontuação obtida pelos usuários.
-Bookmark, caso tenha duvida em alguma questão.
+Realização de um teste online. <br>
+Avaliação automática das respostas. <br>
+Exibição da pontuação obtida pelos usuários. <br>
+Bookmark, caso tenha duvida em alguma questão. <br>
 
 # Pré-requisitos
 
@@ -27,8 +27,7 @@ cd online-exam-java <br>
 
 <strong> Execute o aplicativo: </strong> <br>
 
-bash $ <br>
-java -jar target/online-exam.jar
+RUN'OnlineTest.main()' ou CONTROL + SHIFT + F10 (IntelliJ IDEA).
 
 # Contribuindo
 Sinta-se à vontade para contribuir com melhorias ou correções de bugs. Abra uma issue para discutir grandes alterações antes de enviar um pull request.
