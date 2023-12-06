@@ -33,4 +33,5 @@ RUN'OnlineTest.main()' ou CONTROL + SHIFT + F10 (IntelliJ IDEA).
 Sinta-se à vontade para contribuir com melhorias ou correções de bugs. Abra uma issue para discutir grandes alterações antes de enviar um pull request.
 
 # Licença
-Este projeto é licenciado sob a MIT License.
+Este projeto é licenciado sob a MIT License. <br>
+Aproveite este projeto como um ponto de partida para construir suas próprias aplicações em Java!
