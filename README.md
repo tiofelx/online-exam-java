@@ -11,7 +11,7 @@ Bookmark, caso tenha duvida em alguma questão. <br>
 
 # Pré-requisitos
 
-Java Development Kit (JDK) instalado. <br>
+Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema. Você pode baixar o JDK em oracle.com/java. <br>
 
 # Como Executar
 
