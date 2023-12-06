@@ -30,7 +30,8 @@ cd online-exam-java <br>
 RUN'OnlineTest.main()' ou CONTROL + SHIFT + F10 (IntelliJ IDEA).
 
 # Contribuindo
-Sinta-se à vontade para contribuir com melhorias ou correções de bugs. Abra uma issue para discutir grandes alterações antes de enviar um pull request.
+Sinta-se à vontade para contribuir com melhorias ou correções de bugs. <br>
+Abra uma issue para discutir grandes alterações antes de enviar um pull request.
 
 # Licença
 Este projeto é licenciado sob a MIT License. <br>
