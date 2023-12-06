@@ -1,6 +1,6 @@
 # Online Exam Java
 
-Este é um projeto em Java para criar uma aplicação de Teste Online. A aplicação permite que os usuários realizem testes online com perguntas de múltipla escolha, fornecendo uma pontuação ao final do teste.
+Este é um projeto simples em Java para criar uma aplicação de um Teste Online. A aplicação permite que os usuários realizem um teste online com perguntas de múltipla escolha, fornecendo uma pontuação ao final do teste.
 
 # Funcionalidades
 
