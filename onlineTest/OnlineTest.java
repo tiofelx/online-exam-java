@@ -7,11 +7,16 @@ import javax.swing.*;
 class OnlineTest extends JFrame implements ActionListener
 {
 	JLabel l;
-	JRadioButton jb[]=new JRadioButton[5];
-	JButton b1,b2;
+	JRadioButton[] jb;
+
+    {
+        jb = new JRadioButton[5];
+    }
+
+    JButton b1,b2;
 	ButtonGroup bg;
 	int count=0,current=0,x=1,y=1,now=0;
-	int m[]=new int[10];	
+	int[] m =new int[10];
 	OnlineTest(String s)
 	{
 		super(s);
@@ -177,7 +182,7 @@ class OnlineTest extends JFrame implements ActionListener
 			return(jb[2].isSelected());
 		return false;
 	}
-	public static void main(String s[])
+	public static void main(String... s)
 	{
 		new OnlineTest("Online Test Of Java");
 	}
